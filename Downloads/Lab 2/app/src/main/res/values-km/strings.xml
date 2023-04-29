@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab</string>
+    <string name="hello_seanghak">សួរស្ដី, ស៊ាងហាក់</string>
+    <string name="txt_search">ស្វែងរក</string>
+    <string name="continue_to_mobile_dev_course">Continue to Mobile Dev. Course</string>
+    <string name="complete">60% Complete</string>
+    <string name="seang_hak_ite_g7">ស៊ាង-ហាក់ - ITE - G7</string>
+    <string name="year1">ឆ្នាំទី១</string>
+    <string name="year2">ឆ្នាំទី២</string>
+    <string name="year3">ឆ្នាំទី៣</string>
+    <string name="year4">ឆ្នាំទី៤</string>
+    <string name="semester1">ឆមាស ១</string>
+    <string name="semester2">ឆមាស ២</string>
+    <string name="Java_programing_1">កម្មវិធី Java ១</string>
+    <string name="dsa">រចនាសម្ព័ន្ធទិន្នន័យ</string>
+    <string name="os">ប្រព័ន្ធវប្រតិបត្តិការ</string>
+    <string name="mis">MIS</string>
+    <string name="math">គណិត</string>
+    <string name="app">កម្មវិធីទូរស័ព្ទ I</string>
+    <string name="web">ការអភិវឌ្ឍន៍គេហទំព័រ</string>
+    <string name="database">មូលដ្ឋានទិន្នន័យ</string>
+    <string name="python">Python</string>
+    <string name="english">ភាសាអង់គ្លេស</string>
+    <string name="net">វិស្វកម្មបណ្តាញ</string>
+</resources>

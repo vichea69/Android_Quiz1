@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Lab</string>
+    <string name="hello_seanghak">Hello, SeangHak</string>
+    <string name="txt_search">search</string>
+    <string name="continue_to_mobile_dev_course">Continue to Mobile Dev. Course</string>
+    <string name="complete">60% Complete</string>
+    <string name="seang_hak_ite_g7">Seang-Hak - ITE - G7</string>
+    <string name="year1">Year 1</string>
+    <string name="year2">Year 2</string>
+    <string name="year3">Year 3</string>
+    <string name="year4">Year 4</string>
+    <string name="semester1">Semester 1</string>
+    <string name="semester2">Semester 2</string>
+    <string name="Java_programing_1">Java programing 1</string>
+    <string name="dsa">Data structure</string>
+    <string name="os">Operating system</string>
+    <string name="mis">MIS</string>
+    <string name="math">Mathematics</string>
+    <string name="app">Mobile App Dev I</string>
+    <string name="web">Web development</string>
+    <string name="database">Database</string>
+    <string name="python">Python</string>
+    <string name="english">English language</string>
+    <string name="net">Network Engineering</string>
+</resources>

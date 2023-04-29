@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="260dp"
+        android:background="@color/material_dynamic_primary50">
+
+        <ImageView
+            android:layout_alignParentEnd="true"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            >
+        </ImageView>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:src="@drawable/ic_back" />
+
+        <ImageView
+            android:layout_width="96dp"
+            android:layout_height="96dp"
+
+            android:layout_centerInParent="true"
+            android:src="@drawable/ic_profile"></ImageView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="Login to your Account"
+            android:textColor="@color/white"
+            android:textSize="22sp"
+            android:textStyle="bold">
+
+
+        </TextView>
+
+
+    </RelativeLayout>
+
+</RelativeLayout>
